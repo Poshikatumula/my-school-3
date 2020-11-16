@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+}
+.heading{
+    font-family: fantasy;
+}
+#ul{
+    color: white;
+    font-family: cursive;
+     list-style: none;
+    position: fixed;
+
+    cursor: pointer;
+    z-index: 10;
+}
+.row: :after{
+clear:both;
+    display: table;
+}
+
+.campuslife_mainDIV img{
+    width: 100%;
+}
+.campuslife_mainDIV h5, .campuslife_mainDIV p{
+    margin-left: 20px;
+}
+.campusife_mainDIV{
+    float: left;
+    width: 33.33%;
+    padding:7px;
+    border: 1px solid white;
+}
+#Campuslife{
+    background-color:cornsilk;
+}
+.movie_head i{
+    float: right;
+
+}
+.movie_text span{
+    color: #ff7700;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-table;
+}
+#p1{
+    font-size:25px;
+}
